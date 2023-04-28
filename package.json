@@ -18,6 +18,7 @@
   "homepage": "https://github.com/zachstence/chatgpt-api-playground#readme",
   "devDependencies": {
     "nodemon": "^2.0.22",
+    "prettier": "^2.8.8",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
   }
